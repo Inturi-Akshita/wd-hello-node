@@ -1,4 +1,5 @@
 function hello() {
-    console.log("HI");
+    var a = 10
+    console.log(a);
 }
 hello();
